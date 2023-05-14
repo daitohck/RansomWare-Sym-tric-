@@ -12,7 +12,7 @@ def decrypt(fullpath):
       f2.write(content)
 
 if __name__ == '__main__':
-    path_to_encrypt = ''//path
+    path_to_encrypt = '#PATH'
 
     items = os.listdir(path_to_encrypt)
     full_path = [path_to_encrypt + '/' + item for item in items if item!='readme.txt']
