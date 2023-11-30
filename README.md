@@ -1,6 +1,6 @@
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daitohck&theme=dark&show_icons=true)
 Encryption and Decryption Scripts using Fernet
 
 These Python scripts provide a simple implementation of file encryption and decryption using the Fernet symmetric key encryption algorithm from the cryptography library.
